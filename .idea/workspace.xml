@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="338ef934-a053-453c-8426-c3a90fff13e0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/clarusway/pages/AmazonHomePageV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/clarusway/pages/HtmlGoodiesHomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/clarusway/pages/SauceDemoHomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/clarusway/pages/SauceDemoLoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/clarusway/tests/Day01_C01_DriverExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/clarusway/tests/Day01_C02_ConfigReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/clarusway/tests/Day02_C01_PageClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/clarusway/tests/Day02_C02_PageClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/clarusway/tests/Day02_C03_PageClassExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/clarusway/tests/Day02_C04_PageClassFidAll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/clarusway/tests/Day02_C05_OPTIONALPageClassV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/clarusway/utilities/ConfigReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/clarusway/utilities/Driver.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectId" id="2Jv99b3vopG1wN5zZjEPlPlU6UN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="TestNG.Day02_C04_PageClassFidAll">
+    <configuration name="Day02_C03_OPTIONALPageClassV2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="CWTestNGPOMSelenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="clarusway.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="clarusway.tests" />
+      <option name="MAIN_CLASS_NAME" value="clarusway.tests.Day02_C03_OPTIONALPageClassV2" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day02_C03_PageClassExample" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="CWTestNGPOMSelenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="clarusway.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="clarusway.tests" />
+      <option name="MAIN_CLASS_NAME" value="clarusway.tests.Day02_C03_PageClassExample" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day02_C03_PageClassExample.test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="CWTestNGPOMSelenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="clarusway.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="clarusway.tests" />
+      <option name="MAIN_CLASS_NAME" value="clarusway.tests.Day02_C03_PageClassExample" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day02_C04_PageClassFidAll" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="CWTestNGPOMSelenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="clarusway.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="clarusway.tests" />
+      <option name="MAIN_CLASS_NAME" value="clarusway.tests.Day02_C04_PageClassFidAll" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day02_C05_OPTIONALPageClassV2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="CWTestNGPOMSelenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="clarusway.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="clarusway.tests" />
+      <option name="MAIN_CLASS_NAME" value="clarusway.tests.Day02_C05_OPTIONALPageClassV2" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.Day02_C04_PageClassFidAll" />
+        <item itemvalue="TestNG.Day02_C05_OPTIONALPageClassV2" />
+        <item itemvalue="TestNG.Day02_C03_OPTIONALPageClassV2" />
+        <item itemvalue="TestNG.Day02_C03_PageClassExample" />
+        <item itemvalue="TestNG.Day02_C03_PageClassExample.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="338ef934-a053-453c-8426-c3a90fff13e0" name="Changes" comment="" />
+      <created>1672947540942</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672947540942</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
